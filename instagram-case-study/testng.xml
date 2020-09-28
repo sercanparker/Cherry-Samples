@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<test name="227e6c70-c529-4bb2-b5c3-cb1d18eb7387">
+	<parameter 
+		name="email" 		value="foosercanparker@yopmail.com">
+	</parameter> 
+	<classes>
+		<class name="tests.RegisterScenarioTest"></class>
+	</classes>
+
+</test>
+
+</suite>
+
